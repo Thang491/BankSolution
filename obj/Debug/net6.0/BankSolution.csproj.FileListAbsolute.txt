@@ -1,0 +1,45 @@
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.AssemblyInfo.cs
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\bin\Debug\net6.0\BankSolution.exe
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\bin\Debug\net6.0\BankSolution.deps.json
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\bin\Debug\net6.0\BankSolution.runtimeconfig.json
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\bin\Debug\net6.0\BankSolution.dll
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\bin\Debug\net6.0\BankSolution.pdb
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.dll
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\refint\BankSolution.dll
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.pdb
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\BankSolution.genruntimeconfig.cache
+C:\Users\PC\Desktop\learn\PRN211\work space\bankSolution\BankSolution\obj\Debug\net6.0\ref\BankSolution.dll
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.csproj.AssemblyReference.cache
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.AssemblyInfoInputs.cache
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.AssemblyInfo.cs
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.csproj.CoreCompileInputs.cache
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.dll
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\refint\BankSolution.dll
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.pdb
+C:\PRN211\BankSolution\BankSolution\bin\Debug\net6.0\BankSolution.exe
+C:\PRN211\BankSolution\BankSolution\bin\Debug\net6.0\BankSolution.deps.json
+C:\PRN211\BankSolution\BankSolution\bin\Debug\net6.0\BankSolution.runtimeconfig.json
+C:\PRN211\BankSolution\BankSolution\bin\Debug\net6.0\BankSolution.dll
+C:\PRN211\BankSolution\BankSolution\bin\Debug\net6.0\BankSolution.pdb
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\BankSolution.genruntimeconfig.cache
+C:\PRN211\BankSolution\BankSolution\obj\Debug\net6.0\ref\BankSolution.dll
+C:\Users\admin\Downloads\BankSolution\bin\Debug\net6.0\BankSolution.exe
+C:\Users\admin\Downloads\BankSolution\bin\Debug\net6.0\BankSolution.deps.json
+C:\Users\admin\Downloads\BankSolution\bin\Debug\net6.0\BankSolution.runtimeconfig.json
+C:\Users\admin\Downloads\BankSolution\bin\Debug\net6.0\BankSolution.dll
+C:\Users\admin\Downloads\BankSolution\bin\Debug\net6.0\BankSolution.pdb
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.AssemblyInfo.cs
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.dll
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\refint\BankSolution.dll
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.pdb
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\BankSolution.genruntimeconfig.cache
+C:\Users\admin\Downloads\BankSolution\obj\Debug\net6.0\ref\BankSolution.dll
